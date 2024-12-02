@@ -32,6 +32,11 @@ def sum():
         return 0
     return sum
 
+def subtraction():
+    result = 2 - 2
+    if result == 0: 
+        return 0
+
 def multiply():
     result = 2 * 2
     if result == 4: 
